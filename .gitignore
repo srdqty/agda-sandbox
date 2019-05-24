@@ -1,6 +1,8 @@
 *.swp
 *~
 *.exe
+\#*#
+.#*
 
 hello-world/hello-world
 

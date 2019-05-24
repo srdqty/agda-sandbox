@@ -13,6 +13,7 @@ in
     buildInputs = old.buildInputs ++ [
       (pkgs.haskellPackages.ghcWithPackages (pkgs: with pkgs; [
         ieee754
+        Agda
       ]))
       pkgs.ncurses
     ];
