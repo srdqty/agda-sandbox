@@ -1,0 +1,14 @@
+*.swp
+*~
+*.exe
+
+hello-world/hello-world
+
+# Created by https://www.gitignore.io/api/Agda
+# Edit at https://www.gitignore.io/?templates=Agda
+
+### Agda ###
+*.agdai
+*/MAlonzo/**
+
+# End of https://www.gitignore.io/api/Agda
